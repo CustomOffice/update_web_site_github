@@ -10,13 +10,13 @@ Instruction pour personnaliser les sitewebs des projets github, avec intégratio
 3. Ajouter les fichiers Lytebox.js et Lytebox.css à la racine du site (branche gh-pages)
 4. Remplacer le fichier stylesheet.css dans le dossier stylesheets (branche gh-pages/stylesheets)
 5. Modifier le fichier index.html comme suit 
-	* Ajouter au <head> :
+	* Ajouter au `<head>` :
 	```bash
 	<link rel="stylesheet" type="text/css" media="screen" href="lytebox.css">
 	<script type="text/javascript" language="javascript" src="lytebox.js"></script>
 	```
 
-	* Remplacer le <p> pour les images par :
+	* Remplacer le `<p>` pour les images par :
 	```bash
 	<p>
 		<a href="captures/calendrier.png" class="lytebox" data-lyte-options="group:vacation" data-title="Vue du calendrier" data-description="">
