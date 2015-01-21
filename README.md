@@ -28,4 +28,8 @@ Instruction pour personnaliser les sitewebs des projets github, avec intégratio
 		</a>
 	</p>
 	```
+	* Ajouter à la fin du `<footer>` :
+	```bash
+	<img src="http://www.custom-office.ch/logo.png" alt="Logo Custom Office" id="logo_perso">
+	```
 
