@@ -8,8 +8,9 @@ Instruction pour personnaliser les sitewebs des projets github, avec intégratio
 1. Créer le siteweb du projet à l'aide l'assistant (texte, code, titre etc) ajouter éventuellements les images et publier
 2. Ajouter dans le dossier images du site Github les images contenues dans le dossier miniature de ce projet (branche gh-pages/images)
 3. Ajouter les fichiers Lytebox.js et Lytebox.css à la racine du site (branche gh-pages)
-4. Remplacer le fichier stylesheet.css dans le dossier stylesheets (branche gh-pages/stylesheets)
-5. Modifier le fichier index.html comme suit 
+4. Remplacer le fichier stylesheet.css dans le dossier stylesheets (branche gh-pages/stylesheets)    
+5. Remplacer le bouton sprite_download.png dans le dossier images (branche gh-pages/images) 
+6. Modifier le fichier index.html comme suit 
 	* Ajouter au `<head>` :
 	```bash
 	<link rel="stylesheet" type="text/css" media="screen" href="lytebox.css">
