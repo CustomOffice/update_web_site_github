@@ -416,6 +416,15 @@ Small Device Styles
 {
 	max-height: 50px;
 	position: absolute;
-	top: 20px;
-	right: 10px;
+	bottom: 00px;
+	left: 66%;
+}
+
+#logo_perso_download
+{
+	max-height: 50px;
+	position: absolute;
+	bottom: 50px;
+	left: 66%;
+	margin-left:34px;
 }
