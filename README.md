@@ -6,6 +6,26 @@ Instruction pour personnaliser les sitewebs des projets github, avec intégratio
 
 ## Instructions
 1. Créer le siteweb du projet à l'aide l'assistant (texte, code, titre etc) ajouter éventuellements les images et publier
+	```bash
+		# Description
+		Ce calendrier utilise uniquement des formules et mise en forme conditionnel.
+
+		# Paramètres
+		- Année
+		- Jours ouvrés/non-ouvrés
+		- Premier jour de la semaine
+		- Affichage des mois (court / complet)
+		- Liste des jours fériés (inclus vacances)
+
+		# Captures d'écran
+		![Vue du calendrier](https://raw.githubusercontent.com/CustomOffice/Calendrier_Paysage/gh-pages/captures/calendrier.png)
+		![Vue des paramètres d'affichage](https://raw.githubusercontent.com/CustomOffice/Calendrier_Paysage/gh-pages/captures/parametre.png)
+
+		# Infos fichiers :
+		**Logiciel :** Excel 2010    
+		**Taille :** 45 Ko    
+		**Extension :** .xlsx 
+	```
 2. Ajouter dans le dossier images du site Github les images contenues dans le dossier miniature de ce projet (branche gh-pages/images)
 3. Ajouter les fichiers Lytebox.js et Lytebox.css à la racine du site (branche gh-pages)
 4. Remplacer le fichier stylesheet.css dans le dossier stylesheets (branche gh-pages/stylesheets)    
