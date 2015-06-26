@@ -50,7 +50,7 @@ Instruction pour personnaliser les sitewebs des projets github, avec intégratio
 	```
 	* Ajouter à la fin du `<footer>` :
 	```bash
-		<a href="http://www.custom-office.ch"><img src="http://www.custom-office.ch/Logo_download_long.png" alt="Logo Custom Office site Download" id="logo_perso_download"></a>
+		<a href="http://download.custom-office.ch/"><img src="http://www.custom-office.ch/Logo_download_long.png" alt="Logo Custom Office site Download" id="logo_perso_download"></a>
 		<a href="http://www.custom-office.ch"><img src="http://www.custom-office.ch/logo.png" alt="Logo Custom Office" id="logo_perso"></a>
 	```
 
